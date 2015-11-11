@@ -1,5 +1,5 @@
 # PHPSqliteArray
-PHP Array implementation that uses SQLite as it's underlying storage.
+PHP 5.3+ Array implementation that uses SQLite as it's underlying storage.
 
 Usage:
 --------------
